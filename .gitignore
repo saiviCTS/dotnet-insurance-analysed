@@ -1,0 +1,12 @@
+## .NET build output
+bin/
+obj/
+
+## Test results
+[Tt]est[Rr]esult*/
+*.trx
+
+## User-specific files
+*.user
+*.suo
+.vs/
